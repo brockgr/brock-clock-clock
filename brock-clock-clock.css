@@ -20,7 +20,7 @@ a:active { color: #FF8888;text-decoration: underline; }
     -webkit-transform: translateY(-50%);
 }
 .credit {
-    font-size: 3vh;
+    font-size: 2vh;
     position: absolute;
     width:100%;
     bottom: 0;
