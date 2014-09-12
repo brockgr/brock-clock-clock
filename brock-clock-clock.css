@@ -59,6 +59,7 @@ a:active { color: #FF8888;text-decoration: underline; }
 }
 
 .clock .tick.major-tick {
+    margin-left: -1%;
     width: 3%;
 }
 
